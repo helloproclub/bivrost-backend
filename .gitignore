@@ -1,0 +1,8 @@
+# Ignore Environment Variable
+.env
+
+# Ignore Development Log
+log/
+
+# Ignore Node Dependencies
+node_modules/
